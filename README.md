@@ -8,3 +8,5 @@ Appcelerator: Mobile Android - Facebook Login - It supports all new Graph API ve
 + Custom Facebook Login button
 + Custom Logout Button 
 + This is Classic App
+Contact : http://www.rajuharry.com/
+For more Join : http://www.phoenixpeth.com/
